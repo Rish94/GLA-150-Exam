@@ -1,0 +1,42 @@
+#header{
+    font-weight: bold;
+    background-color: rgb(255, 221, 0);
+    padding: 10px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#discover{
+    color: rgb(255, 255, 255);
+    text-shadow: 2px black;
+}
+
+#newart{
+    font-size:30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#input{
+    font-size: 20px;
+}
+
+input{
+    width: 80vw;
+}
+
+#article{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+#buttons{
+    width: 80vw;
+}
+
+button{
+    width: 100px;
+    height: 30px;
+}
